@@ -1,5 +1,5 @@
 # terraform
-Infrastructure Provisioning
+Example Infrastructure Provisioning
 
 
 ### You will need
@@ -12,7 +12,7 @@ Infrastructure Provisioning
  - export AWS_DEFAULT_REGION="_yourAWSDefaultRegion_"
 
 Environment variable management is personal preference.  
-You could use [direnv](http://direnv.net/)
+You could use [direnv](http://direnv.net/).
 
 ### Key pairs
 Terraform cannot create new key pairs, only import existing.
