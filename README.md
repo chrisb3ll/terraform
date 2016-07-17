@@ -15,12 +15,12 @@ Environment variable management is personal preference.
 You could use [direnv](http://direnv.net/).
 
 ### Key pairs
-Terraform cannot create new key pairs, only import existing.
-As a manual step either way, please create a key pair in the console.
-Default expected is `terraform_key`
+Terraform cannot create new key pairs, only import existing.  
+As a manual step either way, please create a key pair in the console.  
+Default expected is `terraform_key`.
 
 ### Start
-A simple bash wrapper `tf.sh` is available for use
+A simple bash wrapper `tf.sh` is available for use:
 
 ```
   usage: ./tf.sh [ -a value -e value -x 'value(s)' ]
