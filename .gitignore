@@ -1,0 +1,9 @@
+# OSX
+.DS_Store
+
+# env vars
+.envrc
+
+# tf module directory
+.terraform
+
