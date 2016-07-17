@@ -4,6 +4,9 @@
 # env vars
 .envrc
 
-# tf module directory
+# modules
 .terraform
 
+# compiled
+*.tfstate
+*.tfstate.backup
