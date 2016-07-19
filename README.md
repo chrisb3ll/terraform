@@ -34,7 +34,7 @@ A simple bash wrapper `tf.sh` is available for use:
 Roles, in the context of this project, are a collection of Terraform configuration files.
 
 **shared:**  
-  *Default*
+  *Default*  
   Re-usable configuration for creating similar environments (e.g. dev, tst, prd)
   Number of instances, IP address etc. defined in variable files
 
